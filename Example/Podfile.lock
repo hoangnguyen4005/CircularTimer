@@ -1,0 +1,16 @@
+PODS:
+  - CircularTimer (0.0.1)
+
+DEPENDENCIES:
+  - CircularTimer (from `../`)
+
+EXTERNAL SOURCES:
+  CircularTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CircularTimer: 02db1ced4e530a4491344f991242705df1929d3b
+
+PODFILE CHECKSUM: 2b9728926a14a7023e45ffe25d84898788fc62c9
+
+COCOAPODS: 1.9.3
