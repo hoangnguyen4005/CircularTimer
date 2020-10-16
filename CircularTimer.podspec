@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'CircularTimer'
   s.version          = '0.0.1'
   s.summary          = 'CircularTimer is design library pod'
-  s.description      = "CircularTimer is library, which supports countdown timer"
+  s.description      = "CircularTimer is a countdown timer library. You can set time for this library as your requirements."
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hoang Nguyen' => 'hoangnguyen4005@gmail.com' }
